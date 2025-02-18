@@ -1,3 +1,10 @@
+# 代码浅读
+
+vban-source.c中 调用 obs_source_output_audio()函数将接收到的音频数据交付给OBS。
+
+
+---
+
 # VBAN Audio Plugin for OBS Studio
 
 ## Introduction
